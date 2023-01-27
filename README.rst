@@ -18,14 +18,6 @@ Add your urls in the data folder with the name urls.json
 python3 main.py data/urls.json
 ``
 
-## Contributing
-
-TP2 is currently not open for contributions.
-
 ## Tests
 
 You can run tests with package unittest
-
-## License
-
-[C] Aurélien Bertail - All right reserved
